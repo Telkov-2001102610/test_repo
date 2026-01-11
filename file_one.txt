@@ -1,4 +1,4 @@
-123 строка  456
+123 строка  456 test line update
 666/
 aaa
 add line
